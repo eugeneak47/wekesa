@@ -1,0 +1,62 @@
+.c
+{
+  background-color: #c82333;
+    height: 200px;
+    text-align: center;
+}
+form
+{
+  margin-left: 30px;
+    margin-right: 30px;
+    padding: 20;
+}
+.d
+{
+  width: 60;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+.a
+{
+ height: 200px;
+    background-color: #28a745;
+}
+.b
+{
+  height: 200px;
+    background-color: #bee5eb;
+    padding-top: 50px;
+
+}
+.c1
+{
+  position: bottom-left;
+}
+.n
+{
+background-color: #1c7430;
+    width: 250px;
+    float: left;
+    height: 350px;
+    margin-right: 20px;
+}
+.r
+{
+height: 500px;
+}
+strong
+{
+    color: #c82333;
+}
+.g
+{
+   margin-top: 50px;
+}
+.p
+{
+   height: 200%;
+}
+
+
